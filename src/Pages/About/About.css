@@ -1,0 +1,52 @@
+.bannerabout{
+    background:  url('https://cdn.mos.cms.futurecdn.net/i5WntuH3mXUHiRddSxoSQm.jpg') center / cover;
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    position: relative;
+}
+.bannercover{
+    background: rgba(207, 193, 193, 0.473);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bannerabouttext{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+    color: white;
+    border-top: 5px solid gold;
+}
+
+.bannerabouttext h1{
+    font-size: 40px;
+    margin: 20px auto;
+}
+.bannerabouttext h3{
+    font-size: 15px;
+    text-align: center;
+}
+
+.bannerabouttext button{
+    outline: 0;
+    border: 2px solid white;
+    color: white;
+    background: none;
+    font-size: 18px;
+    padding: 7px 10px;
+    margin: 0 10px;
+    margin-top: 40px;
+    transition: 1s;
+}
+
+.bannerabouttext button:hover{
+    background: goldenrod;
+    color: white;
+    border: 2px solid goldenrod;
+}

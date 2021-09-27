@@ -1,0 +1,53 @@
+.mainblock5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainblock5inside{
+    margin-top: 70px;
+    width: 80%;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.block5title{
+    width: 86%;
+    margin: auto;
+    text-align: center;
+}
+.block5title h1{
+    color: orange;
+    font-size: 45px;
+    margin: 30px 0;
+    margin-bottom: 80px ;
+}
+
+
+
+.inputs{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.inputs input{
+    width: 27%;
+    height: 36px;
+    border: 2px solid orange;
+    color: grey;
+    padding-left: 20px;
+}
+textarea{
+    width: 99.3%;
+    height: 200px;
+    border: 2px solid orange;
+    padding-left: 20px;
+    padding-top: 15px;
+    margin-bottom: 40px;
+}
+
+.block5title a{
+    border: 2px solid orange;
+    background: rgb(87, 82, 82);
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+}

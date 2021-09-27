@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    background: #6f4e37;
+}
+.navBackground{
+    width: 100%;
+    height: 100%;
+}
+
+.navCenter{
+    margin: auto;
+}
+
+.navInline{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navInline .hg{
+    font-size: 40px;  
+    color: white;
+    font-weight: 100;
+    color: goldenrod;
+}
+
+.navInline ul{
+    padding-left: 0;
+    list-style: none;
+    color: white
+}
+
+.list{
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+}
+
+.list li a{
+    text-decoration: none;
+    color: white;
+}
+
+

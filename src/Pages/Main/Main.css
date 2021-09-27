@@ -1,0 +1,28 @@
+.banner{
+    background:  url('https://hdwallsource.com/img/2019/3/vintage-camera-background-hd-wallpaper-68377-70703-hd-wallpapers.jpg') center / cover;
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bannertext{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+    color: white;
+    border-top: 5px solid gold;
+    border-bottom: 5px solid gold;
+}
+
+.bannertext h1{
+    font-size: 60px;
+    margin: 0;
+    margin-top: 20px;
+}
+.bannertext h3{
+    font-size: 30px;
+}

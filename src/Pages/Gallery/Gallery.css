@@ -1,0 +1,84 @@
+.Center{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    padding: 0 30px;
+}
+.threeflexes{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.firstflex{
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.secondflex{
+    width: 35%;
+}
+
+.flexbanner{
+    width: 100%;
+    height: 420px;
+    margin-bottom: 30px;
+}
+.secondbannerflex{
+    width: 100%;
+    height: 380px;
+    margin-bottom: 30px;
+}
+
+
+.flexbanner1{
+    background: url('https://i.pinimg.com/originals/97/54/92/9754928ed02555fbb88664dfbf25c1b2.jpg') center / cover;
+}
+.flexbanner2{
+    background: url('https://wallpaperaccess.com/full/2958107.jpg') center / cover;
+}
+.flexbanner3{
+    background: url('https://wallpaperboat.com/wp-content/uploads/2020/04/dark-aesthetic-wallpaper-.jpg') center / cover;
+}
+.flexbanner4{
+    background: url('https://i.pinimg.com/originals/37/9c/df/379cdf02d7f29043d6c0934fb9c5dffe.jpg') center / cover;
+}
+.secondbannerflex1{
+    background: url('https://images.unsplash.com/photo-1526116977494-90748acc0cad?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z3J1bmdlJTIwYWVzdGhldGljfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80') center/ cover;
+}
+.secondbannerflex2{
+    background: url('https://techcrunch.com/wp-content/uploads/2017/12/euniceeunny.jpg') center / cover;
+}
+.secondbannerflex3{
+    background: url('https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2019/09/shutterstock_1396068722.jpg') center / cover;
+}
+.secondbannerflex4{
+    background: url('https://expertphotography.com/wp-content/uploads/2019/07/photography-aesthetic-bridge-landscape-at-blue-hour.jpg') center / cover;
+}
+.flexbanner5{
+    background: url('https://shotkit.com/wp-content/uploads/2021/02/guide-to-aesthetic-photography.jpg') center / cover;
+}
+.flexbanner6{
+    background: url('https://www.aestheticstories.com/wp-content/uploads/2018/06/Cleo-Goossens-Aesthetic-Stories-14.jpg') center / cover;
+}
+.flexbanner7{
+    background: url('https://data.whicdn.com/images/313691231/original.jpg') center / cover;
+}
+.flexbanner8{
+    background: url('https://pictures.depop.com/b0/10491894/425644422_LiK7n0YgFA/P0.jpg') center / cover;
+}
+
+
+.ainblock9{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.ainblock9 a{
+    text-decoration: none;
+    font-size: 20px;
+    color: goldenrod;
+    border: 1px solid goldenrod;
+    padding: 7px 14px;
+}
+
